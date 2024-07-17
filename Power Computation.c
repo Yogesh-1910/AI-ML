@@ -1,4 +1,4 @@
-//*****************QUICK SORT**********************
+//*****************POWER COMPUTATION (DECREASE AND CONQUER)**********************
 
 //AUTHOR: YOGESH S 1GA22AI063
 //DATE:17/07/2024 11:30AM
