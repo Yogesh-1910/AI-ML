@@ -1,3 +1,10 @@
+//AUTHOR: YOGESH S 1GA22AI063
+//DATE:4/07/2024 11:30AM
+//MODIFIED DATE: 4/07/2024
+/*
+START CODE
+------------------------------------------
+*/
 #include <stdio.h>
 
 int arraySum(int arr[], int size) {
@@ -18,3 +25,7 @@ int main() {
 
     return 0;
 }
+/*
+END CODE
+---------------------------------------
+*/
