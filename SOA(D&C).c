@@ -1,3 +1,10 @@
+//AUTHOR: YOGESH S 1GA22AI063
+//DATE:4/07/2024 11:30AM
+//MODIFIED DATE: 4/07/2024
+/*
+START CODE
+------------------------------------------
+*/
 #include <stdio.h>
 
 // Function to calculate sum of elements in array using divide and conquer
@@ -21,3 +28,7 @@ int main() {
 
     return 0;
 }
+/*
+END CODE
+---------------------------------------
+*/
